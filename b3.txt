@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 b3.txt modified file
+=======
+

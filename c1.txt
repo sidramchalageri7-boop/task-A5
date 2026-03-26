@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 c1.txt modified file
+=======
+
